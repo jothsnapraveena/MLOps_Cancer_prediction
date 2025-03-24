@@ -28,8 +28,12 @@ This project demonstrates an end-to-end **MLOps pipeline** for **colorectal canc
 | **Pandas / NumPy** | Data processing |
 
 ---
-### 📸 Pipeline Run Screenshot
+### 📸 Application UI
 
 ![Kubeflow Pipeline Screenshot](https://raw.githubusercontent.com/jothsnapraveena/MLOps_Cancer_prediction/master/Screenshot%202025-03-24%20024540.png)
+
+### Pushed the image to DockerHub
+
+![screenshot](https://github.com/jothsnapraveena/MLOps_Cancer_prediction/blob/master/Screenshot%202025-03-24%20044227.png)
 
 
