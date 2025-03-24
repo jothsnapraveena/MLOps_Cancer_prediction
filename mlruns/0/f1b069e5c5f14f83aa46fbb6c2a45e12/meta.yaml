@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Colorectal%20cancer%20prediction/mlruns/0/f1b069e5c5f14f83aa46fbb6c2a45e12/artifacts
+end_time: 1742797787708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1b069e5c5f14f83aa46fbb6c2a45e12
+run_name: big-elk-945
+run_uuid: f1b069e5c5f14f83aa46fbb6c2a45e12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742797751229
+status: 3
+tags: []
+user_id: joths
