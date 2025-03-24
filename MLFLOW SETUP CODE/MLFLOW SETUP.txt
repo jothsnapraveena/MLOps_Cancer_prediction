@@ -1,8 +1,8 @@
 --------------------------------------------------- EXPERIMENT TRACKING DAGSHUB -----------------------------------------
 
 
-set MLFLOW_TRACKING_URI=
+set MLFLOW_TRACKING_URI=https://dagshub.com/jothsnapraveena/firstrepo.mlflow
 
-set MLFLOW_TRACKING_USERNAME=
+set MLFLOW_TRACKING_USERNAME=jothsnapraveena
 
-set MLFLOW_TRACKING_PASSWORD=
+set MLFLOW_TRACKING_PASSWORD=a2ce05dac967d5c5dbf1e755ec780c775a981f07
