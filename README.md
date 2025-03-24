@@ -28,4 +28,5 @@ This project demonstrates an end-to-end **MLOps pipeline** for **colorectal canc
 | **Pandas / NumPy** | Data processing |
 
 ---
+https://raw.githubusercontent.com/jothsnapraveena/MLOps_Cancer_prediction/master/Screenshot%202025-03-24%20024540.png
 
